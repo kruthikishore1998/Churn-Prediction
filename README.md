@@ -61,12 +61,3 @@ Key features include:
 - Model achieved strong predictive performance (validated during training)
 - Fully reproducible and cloud-scalable solution
 
----
-
-## 💰 Cost Management
-
-- Endpoint is **explicitly deleted** after inference
-- No persistent resources left running
-- Safe for personal / academic use
-
-
